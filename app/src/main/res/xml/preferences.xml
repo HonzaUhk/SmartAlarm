@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <cz.uhk.knejpja1.smartalarm.model.SeekBarPreference
+        android:defaultValue="300"
+        android:key="noiseLevel"
+        android:max="3000"
+        android:title="Noise tolerance"
+        />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="lightDetection"
+        android:title="Use light detection"
+        />
+
+    <cz.uhk.knejpja1.smartalarm.model.SeekBarPreference
+        android:defaultValue="15"
+        android:key="activityTime"
+        android:max="100"
+        android:title="Aktivity time"
+        />
+
+</PreferenceScreen>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SmartAlarm</string>
+    <string name="set_alarm">Set alarm</string>
+    <string name="set">Set</string>
+    <string name="new_alarm">New alarm</string>
+    <string name="monday">Monday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="thusrday">Thusrday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="delete">Delete</string>
+</resources>
